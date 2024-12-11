@@ -19,15 +19,13 @@ Future work that could be added:
 	1. Validate Phone number.
 	2. Give the user the ability to transform CSV to PDF format.
 	3. Have the script run anywhere in the directory. (See REQUIREMENTS)
-	4. Give the ability to use an existing CSV file with a different file 	   name.
+	4. Give the ability to use an existing CSV file with a different file name.
 
 REQUIREMENTS:
 
 	1. This script was writtent with Python 3.11.5
-	2. This script requires that the csv file must be in the same
-	   directory as the script file.
-	3. The script CAN create a csv file called "my_contacts.csv"
-	   if none exist.
+	2. This script requires that the csv file must be in the same directory as the script file.
+	3. The script CAN create a csv file called "my_contacts.csv" if none exist.
 
 TEST:
 
